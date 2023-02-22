@@ -1,0 +1,15 @@
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.csproj.AssemblyReference.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.AssemblyInfoInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.AssemblyInfo.cs
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.csproj.CoreCompileInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\bin\Debug\net6.0\Exemple25.exe
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\bin\Debug\net6.0\Exemple25.deps.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\bin\Debug\net6.0\Exemple25.runtimeconfig.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\bin\Debug\net6.0\Exemple25.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\bin\Debug\net6.0\Exemple25.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\refint\Exemple25.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\Exemple25.genruntimeconfig.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple25\obj\Debug\net6.0\ref\Exemple25.dll
