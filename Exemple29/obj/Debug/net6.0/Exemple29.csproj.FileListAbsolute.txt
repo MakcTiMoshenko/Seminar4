@@ -1,0 +1,15 @@
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\bin\Debug\net6.0\Exemple29.exe
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\bin\Debug\net6.0\Exemple29.deps.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\bin\Debug\net6.0\Exemple29.runtimeconfig.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\bin\Debug\net6.0\Exemple29.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\bin\Debug\net6.0\Exemple29.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.csproj.AssemblyReference.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.AssemblyInfoInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.AssemblyInfo.cs
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.csproj.CoreCompileInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\refint\Exemple29.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\Exemple29.genruntimeconfig.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_4 Знакомство с C#\Exemple29\obj\Debug\net6.0\ref\Exemple29.dll
